@@ -1,0 +1,21 @@
+#cabecera{
+    background-color: #ffe2f5;
+    padding: 10px;
+    color: #880d59;
+}
+#menu{
+    background-color: #fa88ce;
+    padding: 12px;
+    margin-bottom: 5px;
+}
+a.item_menu{
+    color: rgb(22, 19, 20);
+    text-decoration: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+a.item_menu:hover{
+    background-color: #ffaadc;
+}
